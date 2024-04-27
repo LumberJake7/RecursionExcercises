@@ -1,0 +1,3 @@
+  if (words.length === 1) return words[0].length;
+
+   if (nums.length === 0) return 1;
